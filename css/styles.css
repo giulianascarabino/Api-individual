@@ -1,0 +1,27 @@
+#divPrincipal{
+    text-align: center;
+}
+
+#logo {
+    width: 20em;
+}
+
+#container {
+    margin-top: 2em;
+}
+
+#imagenCarta{
+    width: 10em;
+}
+
+p {
+    margin-top: 3em;
+    font-size: x-small;
+}
+p{ font-family: Arial, Helvetica, sans-serif;
+    color: rgb(236, 219, 66);
+    background-color: rgb(36, 36, 121);
+}
+body{background-color: rgb(20, 20, 70);
+
+    }
